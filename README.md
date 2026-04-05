@@ -26,4 +26,4 @@
 
 * **추출된 이미지 예시**
   * ![Distorted Image](distorted.png)
-    * ![Undistorted Image](undistorted.png)
+  * ![Undistorted Image](undistorted.png)
